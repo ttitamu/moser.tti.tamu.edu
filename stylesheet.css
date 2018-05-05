@@ -1,0 +1,160 @@
+body,td,th {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #000000;
+}
+body {
+	background-color: #800302;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+body a {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #000084;
+	text-decoration: none;
+	}
+body a:hover {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #000084;
+	text-decoration: underline overline;
+}
+h1 {
+	color: #800302;
+	}
+h3 {
+	color: #000000;
+	margin-right: 20px;
+	}
+hr {
+	height:1px;
+	width:100px;
+	margin: 0px;
+	background-color: #800302;
+   }
+ul {
+	list-style-image: url(images/3circles.gif);
+	line-height: 1.5em;
+	font-weight: bold;
+	background-position: center;
+	vertical-align: middle;
+} 
+li {
+	list-style-image: url(images/3circles.gif);
+	line-height: 1.5em;
+	font-weight: bold;
+	background-position: center;
+	vertical-align: middle;
+} 
+img {
+	vertical-align:middle;
+}
+#alt a {
+	color: #800302;
+}
+#alt a:hover {
+	color: #800302;
+	text-decoration: underline overline;
+}
+.box {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #D9B4B4;
+	background-color: #E6CDCC;
+	color: #800302;
+	float: right;
+}
+.box a {
+	color: #800302;
+}
+.box a:hover {
+	color: #800302;
+	text-decoration: underline overline;
+}
+#flash {
+	color: #800302;
+	top: 0px;
+	left: 0px;
+	width: 105px;
+	font-size: 1.2em;
+	padding-left: 15px;
+	margin-top: 40px;
+}
+#main {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #333333;
+	background-image: url(images/graygrid.gif);
+	width: 760px;
+}
+#sched {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #D9B4B4;
+	background-color: #E6CDCC;
+	color: #800302;
+}
+#sched a {
+	color: #800302;
+}
+#sched a:hover {
+	color: #800302;
+	text-decoration: underline overline;
+}
+#news {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #D9B4B4;
+	background-color: #E6CDCC;
+	color: #800302;
+	font-weight: bold;
+}
+.head {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #800302;
+}
+.formText {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #800302;
+}
+.subhead {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #666666;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #666666;
+}
+.menu {
+	font-weight: bold;
+	margin: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	float: left;
+}
+.note {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	font-style: italic;
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.footnote {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	font-style: italic;
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
